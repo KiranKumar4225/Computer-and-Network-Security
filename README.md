@@ -1,1 +1,3 @@
 # Computer-and-Network-Security
+
+Demonstrate critical understanding of the mechanisms used to maintain network security   (A and B) Have a deep and integrated understanding of selected key topics at the forefront of this field, including recent developments and outstanding issues (B) Have practical and analytical skills to keep abreast of future developments in networking and computer security (A) Be able to undertake practical work that explores techniques covered in this module and provide deep analysis of their findings (B) Be able to undertake an investigation into areas covered by this module and report on their findings (B)
